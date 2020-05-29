@@ -1,5 +1,5 @@
 # cur-alura-laravel-parte2
-Curso Alura PHP PDO parte 2: Mais segurança e organização na sua app
+Laravel parte 2: Trabalhando com Autenticação, Relacionamentos e Testes
 
 ## Aulas
 - [Aula 01 - Relacionamentos no modelo](https://github.com/vxrnxk/cur-alura-laravel-parte2/tree/master/aula-01)
